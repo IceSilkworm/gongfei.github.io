@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://knowledge0604.oss-cn-shanghai.aliyuncs.com/QAXNACClientinst-iOS.ipa?Expires=1680004957&OSSAccessKeyId=TMP.3KeNELPaobveBa3DpPMtrnFVCidFqneRJtmdKCiN1VvpPHjhrpALFgdZM315deuJ6d1bbiduHzVpbU9WwDJSKJxDfNhY8o&Signature=XyC32youO6lMf4IOCdJpoVcBQXo%3D</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+                <string>com.qianxin.ivpn</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>奇安信准入</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
